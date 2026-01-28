@@ -118,6 +118,12 @@ Este proyecto prioriza la **seguridad real**, no solo estética.
 pnpm dev
 ```
 
+Pero esta la opción automatica que es ejecutando simplemente `run.bat` y ya hace todo lo técnico (Instalando previamente las dependencias, leer README.txt de la carpeta)
+
+```bash
+run.bat
+```
+
 Luego abre:
 
 ```
@@ -148,6 +154,13 @@ Actualmente:
 ```bash
 pnpm tauri dev
 ```
+
+Pero esta la opción automatica que es ejecutando simplemente `run.bat` y ya hace todo lo técnico (Instalando previamente las dependencias, leer README.txt de la carpeta)
+
+```bash
+run.bat
+```
+
 > ⚠️ Mover la carpeta del proyecto puede romper rutas en modo dev
 Se recomienda mantener la estructura intacta.
 
