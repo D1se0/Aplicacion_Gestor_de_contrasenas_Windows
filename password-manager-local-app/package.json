@@ -1,0 +1,17 @@
+{
+  "name": "password-manager-local",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c auto \"pnpm -C apps/backend dev\" \"pnpm -C apps/frontend dev\"",
+    "build": "pnpm -C apps/backend build && pnpm -C apps/frontend build",
+    "start": "pnpm -C apps/backend start",
+    "lint": "pnpm -C apps/backend lint && pnpm -C apps/frontend lint"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
