@@ -1,0 +1,8 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "http",
+  "description": "Allow HTTP requests to local backend",
+  "permissions": [
+    "http:default"
+  ]
+}

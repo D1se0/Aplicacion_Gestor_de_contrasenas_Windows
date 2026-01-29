@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"default permissions","local":true,"windows":["main"],"permissions":["core:default","log:default","http:default"]},"http":{"identifier":"http","description":"Allow HTTP requests to local backend","local":true,"permissions":["http:default"]}}
