@@ -37,14 +37,13 @@ No existe una release estable por el momento.
 
 ## 🖼️ Capturas de pantalla
 
-> *(Pendiente de añadir)*
-
-Aquí se mostrarán capturas de:
-- Pantalla principal
-- Vista de bóvedas
-- Entradas cifradas
-- Creación / edición de contraseñas
-- Bloqueo y desbloqueo de bóveda
+<img width="1169" height="462" alt="1" src="https://github.com/user-attachments/assets/3edd604a-5d42-4771-9301-f02eb784296c" />
+<img width="867" height="661" alt="2" src="https://github.com/user-attachments/assets/41d620af-3056-45e3-9ed8-ab2cc86cbaad" />
+<img width="801" height="433" alt="3" src="https://github.com/user-attachments/assets/c89c1ba0-35e3-4cb4-b7f6-e288263f5786" />
+<img width="1188" height="474" alt="4" src="https://github.com/user-attachments/assets/da20c148-e55d-4fb5-8a8e-ddd7055e3839" />
+<img width="1203" height="684" alt="5" src="https://github.com/user-attachments/assets/3352a326-211e-42b3-b409-a96946603c47" />
+<img width="1225" height="690" alt="6" src="https://github.com/user-attachments/assets/58d3910e-b63a-47dd-9839-98504f2e6ce6" />
+<img width="749" height="632" alt="7" src="https://github.com/user-attachments/assets/e8235b84-8373-4dd4-b2c8-72cc9455ab5d" />
 
 ---
 
